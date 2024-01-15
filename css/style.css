@@ -9,15 +9,22 @@ header img {
   width: 300px;
   height: 240px;
 }
+
 /*titolo*/
-section b span {
+.text-color{
   color:rgb(131,207,241);
 }
 
 h1 {
   font-size: 55px;
 }
+/*info*/
 
-section span {
+.text-background{
   background-color: yellow;
+}
+
+/*lista*/
+ul{
+  padding-left: 15px;
 }
